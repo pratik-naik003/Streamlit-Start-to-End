@@ -1,6 +1,4 @@
-# 📘 Streamlit – Simple English Notes (Chai aur Streamlit)
-
-These notes convert the full Hindi tutorial into **simple, clear English**, with **important ideas + minimal code snippets** wherever needed.
+# 📘 Streamlit – 
 
 ---
 
