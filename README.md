@@ -310,15 +310,4 @@ if st.button("Convert"):
 * Perfect for **AI / ML / Data Science / GenAI**
 * Write logic → UI appears automatically
 
----
 
-🎯 **Assignment Ideas**
-
-* Age Calculator (DOB → Age)
-* Tea ordering app
-* CSV dashboard
-* ML model UI
-
----
-
-💡 You now have **enough Streamlit knowledge to build real projects** 🚀
